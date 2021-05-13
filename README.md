@@ -3,9 +3,9 @@
 常用多链钱包： imtoken,  metamask
 
 ## 公链一键jianbi
-- 币安智能链: http://bsc.tokendiy.defiplot.com/
-- 火币链： http://heco.tokendiy.defiplot.com/#/
-- 以太坊链（ERC-20）: tokendiy.defiplot.com
+- 币安智能链: http://bsc.tokendiy.defiplot.com/  当前消耗320cny
+- 火币链： http://heco.tokendiy.defiplot.com/#/  消耗4000cny
+- 以太坊链（ERC-20）: tokendiy.defiplot.com       消耗0.4ETH == 8000cny+
 
 ## scan地址
 - 币安： https://bscscan.com/accounts
